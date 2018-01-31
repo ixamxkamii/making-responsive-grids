@@ -1,1 +1,7 @@
+.grid {
+  overflow: hidden;
+}
 
+.unit {
+  float: left;
+}
